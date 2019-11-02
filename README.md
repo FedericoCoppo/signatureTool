@@ -1,4 +1,4 @@
-# signatureTool
+# Signature Tool
 script tool that allow rsa sha256 signature of a file using openssl library.
 
 RSA 2048-bit key
